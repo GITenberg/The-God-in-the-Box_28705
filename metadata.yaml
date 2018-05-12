@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '9555'
     url: http://www.gutenberg.org/2009/agents/9555
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28705#The-God-in-the-Box
 gutenberg_bookshelf:
 - Astounding Stories
 - Science Fiction
