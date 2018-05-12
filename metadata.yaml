@@ -1,0 +1,29 @@
+_repo: The-God-in-the-Box_28705
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wright, Sewell Peaslee
+    birthdate: 1897
+    deathdate: 1970
+    gutenberg_agent_id: '9555'
+    url: http://www.gutenberg.org/2009/agents/9555
+description: ''
+gutenberg_bookshelf:
+- Astounding Stories
+- Science Fiction
+gutenberg_issued: '2009-05-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28705'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+title: The God in the Box
+url: http://www.gutenberg.org/ebooks/28705
